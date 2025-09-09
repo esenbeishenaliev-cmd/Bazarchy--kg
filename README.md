@@ -1,2 +1,2 @@
-# Bazarchy--kg
+# Bazarchy-kg
 Жарнама приложениясы
